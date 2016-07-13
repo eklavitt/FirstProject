@@ -1,0 +1,65 @@
+/* main.css */
+
+html, body, h1, h2, h3, h4, p, div, ul, ol, li {
+	padding: 0;
+	border: 0;
+	margin: 0;
+	font: inherit;
+	font-size: 100%;
+	font-family: "helvetica-neue", "helvitica", sans-serif;
+}
+
+/* header */
+header {
+	background-color: #000000;
+	color: #ffffff;
+	height: 100px;
+	margin: 0 auto;
+	
+}
+h1 {
+	color: #ffffff;
+	font-size: 60px;
+	font-family: "futura", sans-serif;
+	text-align: right;
+	margin-top: 10px;
+	
+}
+
+.hero {
+	width: 500px;
+	display: inline-block;
+	margin-left: 300px;
+
+}
+
+nav {
+	width: 300px;
+	display: inline-block;
+	text-align: center;
+}
+nav li {
+	display: inline;
+
+}
+nav li a {
+	text-decoration: none;
+	color: #e6e6e6;
+	padding-right: 5px;
+}
+
+
+
+/* main */
+
+.title {
+	width: 700px;
+	height: 180px;
+	text-align: right;
+	font-size: 60px;
+	margin: 10px auto;
+	padding-right: 20px;
+}
+
+
+/* footer */
