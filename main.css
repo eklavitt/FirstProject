@@ -51,15 +51,28 @@ nav li a {
 
 
 /* main */
-
+ 
 .title {
 	width: 700px;
 	height: 180px;
 	text-align: right;
 	font-size: 60px;
-	margin: 10px auto;
+	margin: 10px auto 60px;
 	padding-right: 20px;
 }
+
+.skills{
+	color: #ffffff;
+	font-size: 60px;
+	text-decoration: underline;
+	text-align: center;
+ 	background: url(bubbles.png) no-repeat;
+	background-size: 100% auto;
+	background-position: cover; 
+	height: 400px;
+
+
+ }
 
 
 /* footer */
